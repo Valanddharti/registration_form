@@ -1,0 +1,53 @@
+.loginBox{
+  left: 50%;
+  width: 56%;
+  transform: translate(-50%, 20%);
+  background-color: #3b3b3b;
+}
+  .border_box{
+    border-color: #70f790;
+    font-size: 13px;
+  }
+  form {
+    width: 100%;
+  }
+  .fan_signup{
+    font-size: 12px;
+  }
+  .customButton{
+    padding: 0.5rem !important;
+    width: 50% !important;
+  }
+  .telent_signup{
+    background-color: #70f790 !important;
+  }
+  .name_font{
+    font-size: 14px;
+  }
+  .create_your_fan_account{
+    font-size: 31px;
+  }
+  .border_box{
+    border-color: #70f790;
+    font-size: 13px;
+  }
+  .terms_and_conditions{
+    color: #70f790 !important;
+  }
+  .last_text {
+    font-size: 15px;
+  }
+  .telent_signup{
+    width:212px;
+    border:none;
+    font-weight: 600;
+  }
+  @media screen and (max-width: 550px) {
+    .loginBox {
+      width: 85%;
+    }
+    .fan_signup{
+      text-align: center;
+      font-size: 15px;
+    }
+  }
